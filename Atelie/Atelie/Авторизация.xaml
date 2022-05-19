@@ -1,0 +1,24 @@
+﻿<Window x:Class="Atelie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Atelie"
+        mc:Ignorable="d"
+      Title="Авторизация" Height="450" Width="600" Loaded="Window_Loaded"  >
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFFFF9F9" Offset="0.237"/>
+                <GradientStop Color="#FFFBB9E9" Offset="0.853"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Авторизация" HorizontalAlignment="Left" Margin="196,42,0,0" VerticalAlignment="Top" FontSize="25" FontWeight="Bold"/>
+        <Label Content="Логин" HorizontalAlignment="Left" Margin="72,138,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" RenderTransformOrigin="1.24,0.549"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Margin="72,199,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" RenderTransformOrigin="0.26,0.526"/>
+        <Button Content="Войти" HorizontalAlignment="Left" Margin="142,276,0,0" VerticalAlignment="Top" Width="286" FontSize="20" FontWeight="Bold" Height="38" Click="Button_Click" />
+        <Button Content="Регистрация" HorizontalAlignment="Left" Margin="142,344,0,0" VerticalAlignment="Top" Width="286" FontSize="20" FontWeight="Bold" Height="37" Click="Button_Click_1"  />
+        <TextBox x:Name="Логин" HorizontalAlignment="Left" Height="34" Margin="196,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="232"/>
+        <TextBox x:Name="Пароль" HorizontalAlignment="Left" Height="34" Margin="196,199,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="232"/>
+    </Grid>
+</Window>

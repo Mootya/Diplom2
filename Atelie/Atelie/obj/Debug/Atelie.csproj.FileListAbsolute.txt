@@ -1,0 +1,111 @@
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\Atelie.csprojAssemblyReference.cache
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\MainWindow.g.cs
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\App.g.cs
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\Atelie_MarkupCompile.cache
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\Atelie_MarkupCompile.lref
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\bin\Debug\Atelie.exe.config
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\bin\Debug\Atelie.exe
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\bin\Debug\Atelie.pdb
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\MainWindow.baml
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\Atelie.g.resources
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\Atelie.Properties.Resources.resources
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\Atelie.csproj.GenerateResource.cache
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\Atelie.csproj.CoreCompileInputs.cache
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\Atelie.exe
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\Atelie.pdb
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\Регистрация.g.cs
+C:\Users\Кристи\Desktop\ДО\яна\Ателье\Atelie\Atelie\obj\Debug\Регистрация.baml
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Atelie.csprojAssemblyReference.cache
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Авторизация.g.cs
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Ателье.g.cs
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Регистрация.g.cs
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\App.g.cs
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Atelie_MarkupCompile.cache
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Atelie_MarkupCompile.lref
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Atelie.exe
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Atelie.pdb
+D:\Desktop\Ателье\Atelie\Atelie\bin\Debug\Atelie.exe.config
+D:\Desktop\Ателье\Atelie\Atelie\bin\Debug\Atelie.exe
+D:\Desktop\Ателье\Atelie\Atelie\bin\Debug\Atelie.pdb
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Авторизация.baml
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Ателье.baml
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Регистрация.baml
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Atelie.g.resources
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Atelie.Properties.Resources.resources
+D:\Desktop\Ателье\Atelie\Atelie\obj\Debug\Atelie.csproj.GenerateResource.cache
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\bin\Debug\Atelie.exe.config
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\bin\Debug\Atelie.exe
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\bin\Debug\Atelie.pdb
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Atelie.csprojAssemblyReference.cache
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Авторизация.g.cs
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Ателье.g.cs
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Регистрация.g.cs
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\App.g.cs
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Atelie_MarkupCompile.cache
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Atelie_MarkupCompile.lref
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Авторизация.baml
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Ателье.baml
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Регистрация.baml
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Atelie.g.resources
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Atelie.Properties.Resources.resources
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Atelie.csproj.GenerateResource.cache
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Atelie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Atelie.exe
+C:\Users\User\Desktop\new Ателье\Atelie\Atelie\obj\Debug\Atelie.pdb
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\bin\Debug\Atelie.exe.config
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\bin\Debug\Atelie.exe
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\bin\Debug\Atelie.pdb
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Atelie.csprojAssemblyReference.cache
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Авторизация.g.cs
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Ателье.g.cs
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Регистрация.g.cs
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\App.g.cs
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Atelie_MarkupCompile.cache
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Atelie_MarkupCompile.lref
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Авторизация.baml
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Ателье.baml
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Регистрация.baml
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Atelie.g.resources
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Atelie.Properties.Resources.resources
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Atelie.csproj.GenerateResource.cache
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Atelie.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Atelie.exe
+C:\Users\Dmitrieva\Desktop\Полунина\Atelie\Atelie\obj\Debug\Atelie.pdb
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\bin\Debug\Atelie.exe.config
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\bin\Debug\Atelie.exe
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\bin\Debug\Atelie.pdb
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Atelie.csprojAssemblyReference.cache
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Авторизация.g.cs
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Ателье.g.cs
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Регистрация.g.cs
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\App.g.cs
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Atelie_MarkupCompile.cache
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Atelie_MarkupCompile.lref
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Авторизация.baml
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Ателье.baml
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Регистрация.baml
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Atelie.g.resources
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Atelie.Properties.Resources.resources
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Atelie.csproj.GenerateResource.cache
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Atelie.csproj.CoreCompileInputs.cache
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Atelie.exe
+R:\__\АСУ\Преподаватели АСУ\2021-2022 уч.г\КСЖ\МДК 05.02\ADO\Ателье Попова\Atelie\Atelie\obj\Debug\Atelie.pdb
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\bin\Debug\Atelie.exe.config
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\bin\Debug\Atelie.exe
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\bin\Debug\Atelie.pdb
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Atelie.csprojAssemblyReference.cache
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Авторизация.g.cs
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Ателье.g.cs
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Регистрация.g.cs
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\App.g.cs
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Atelie_MarkupCompile.cache
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Atelie_MarkupCompile.lref
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Авторизация.baml
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Ателье.baml
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Регистрация.baml
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Atelie.g.resources
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Atelie.Properties.Resources.resources
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Atelie.csproj.GenerateResource.cache
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Atelie.csproj.CoreCompileInputs.cache
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Atelie.exe
+C:\Users\WRLDSKLZ\Documents\ИСиП-301\Грибанов\23.04.22\Ц\Atelie\Atelie\obj\Debug\Atelie.pdb
